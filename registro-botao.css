@@ -1,0 +1,14 @@
+.registro__botao {
+  border: none;
+  border-radius: 15px;
+  font-family: sans-serif;
+  margin-right: 10px;
+  text-decoration: none;
+ color: #808080;
+ text-align: center;
+}
+
+.registro__botao:hover {
+  text-decoration: underline;
+}
+

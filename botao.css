@@ -1,0 +1,36 @@
+.botao {
+    border-top: 1px solid #030608;
+    background: #000000;
+    background: -webkit-gradient(linear, left top, left bottom, from(#b2ccd9), to(#1a4663));
+    background: -webkit-linear-gradient(top, #b2ccd9, #1a4663);
+    background: -moz-linear-gradient(top, #b2ccd9, #1a4663);
+    background: -ms-linear-gradient(top, #b2ccd9, #1a4663);
+    background: -o-linear-gradient(top, #b2ccd9, #1a4663);
+    padding: 17px 34px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Helvetica, Arial, Sans-Serif;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 10%;
+   margin: 100px;
+}
+
+.botao:hover {
+    border-top-color: #6998b8;
+   background: #6998b8;
+   color: #ccc;
+}
+
+
+.botao:active {
+    border-top-color: #16486e;
+   background: #16486e;
+}
