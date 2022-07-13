@@ -1,2 +1,2 @@
-# Se-o-de-introdu-o-com-navega-o-suspensa
+# Seção de-introdução com navegação suspensa
 Página web com menus de navegação suspensos
